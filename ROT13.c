@@ -77,7 +77,7 @@ void ConvertToRot13() {
           Rot13Buf[i] = 'R';
        }
        else if (DataBuf[i] == 'F') {
-         Rot13Buf[i] = 'S';
+          Rot13Buf[i] = 'S';
        }
        else if (DataBuf[i] == 'G') {
           Rot13Buf[i] = 'T';
@@ -226,95 +226,95 @@ void ConvertToRot13() {
        else if (DataBuf[i] == '1') {
           Rot13Buf[i] = '1';
        }
-      else if (DataBuf[i] == '2') {
+       else if (DataBuf[i] == '2') {
           Rot13Buf[i] = '2';
-      }
-      else if (DataBuf[i] == '3') {
-         Rot13Buf[i] = '3';
-      }
-      else if (DataBuf[i] == '4') {
-         Rot13Buf[i] = '4';
-      }
+       }
+       else if (DataBuf[i] == '3') {
+          Rot13Buf[i] = '3';
+       }
+       else if (DataBuf[i] == '4') {
+          Rot13Buf[i] = '4';
+       }
       else if (DataBuf[i] == '5') {
-         Rot13Buf[i] = '5';
+          Rot13Buf[i] = '5';
       }
       else if (DataBuf[i] == '6') {
-         Rot13Buf[i] = '6';
+          Rot13Buf[i] = '6';
       } 
       else if (DataBuf[i] == '7') {
-         Rot13Buf[i] = '7';
+          Rot13Buf[i] = '7';
       }
       else if (DataBuf[i] == '8') {
-         Rot13Buf[i] = '8';
+          Rot13Buf[i] = '8';
       }
       else if (DataBuf[i] == '9') {
-         Rot13Buf[i] = '9';
+          Rot13Buf[i] = '9';
       } 
       else if (DataBuf[i] == '.') {
-         Rot13Buf[i] = '.';
+          Rot13Buf[i] = '.';
       }
       else if (DataBuf[i] == ',') {
-         Rot13Buf[i] = ',';
+          Rot13Buf[i] = ',';
       }
       else if (DataBuf[i] == '-') {
-         Rot13Buf[i] = '-';
+          Rot13Buf[i] = '-';
       }
       else if (DataBuf[i] == '!') {
-         Rot13Buf[i] = '!';
+          Rot13Buf[i] = '!';
       }
       else if (DataBuf[i] == '?') {
-         Rot13Buf[i] = '?';
+          Rot13Buf[i] = '?';
       }
       else if (DataBuf[i] == '/') {
-         Rot13Buf[i] = '/';
+          Rot13Buf[i] = '/';
       } 
       else if (DataBuf[i] == '\'') {
-         Rot13Buf[i] = '\'';
+          Rot13Buf[i] = '\'';
       }
       else if (DataBuf[i] == '\"') {
-         Rot13Buf[i] = '\"';
+          Rot13Buf[i] = '\"';
       }
       else if (DataBuf[i] == '%') {
-         Rot13Buf[i] = '%';
+          Rot13Buf[i] = '%';
       }
       else if (DataBuf[i] == '&') {
-         Rot13Buf[i] = '&';
+          Rot13Buf[i] = '&';
       }
       else if (DataBuf[i] == '(') {
-         Rot13Buf[i] = '(';
+          Rot13Buf[i] = '(';
       }
       else if (DataBuf[i] == ')') {
-         Rot13Buf[i] = ')';
+          Rot13Buf[i] = ')';
       }
       else if (DataBuf[i] == '_') {
-         Rot13Buf[i] = '_';
+          Rot13Buf[i] = '_';
       }
       else if (DataBuf[i] == '+') {
-         Rot13Buf[i] = '+';
+          Rot13Buf[i] = '+';
       }
       else if (DataBuf[i] == '=') {
-         Rot13Buf[i] = '=';
+          Rot13Buf[i] = '=';
       }
       else if (DataBuf[i] == '{') {
-         Rot13Buf[i] = '{';
+          Rot13Buf[i] = '{';
       }
       else if (DataBuf[i] == '[') {
-         Rot13Buf[i] = '[';
+          Rot13Buf[i] = '[';
       }
       else if (DataBuf[i] == '}') {
-         Rot13Buf[i] = '}';
+          Rot13Buf[i] = '}';
       }
       else if (DataBuf[i] == ']') {
-         Rot13Buf[i] = ']';
+          Rot13Buf[i] = ']';
       }
       else if (DataBuf[i] == '~') {
-         Rot13Buf[i] = '~';
+          Rot13Buf[i] = '~';
       }
       else if (DataBuf[i] == ':') {
-         Rot13Buf[i] = ':';
+          Rot13Buf[i] = ':';
       }
       else if (DataBuf[i] == ';') {
-         Rot13Buf[i] = ';';
+          Rot13Buf[i] = ';';
       }
    }
 }
